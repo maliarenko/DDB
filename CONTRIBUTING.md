@@ -1,1 +1,2 @@
-smth about contributing
+smth. about contributing
+test line
